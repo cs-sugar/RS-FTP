@@ -1,5 +1,5 @@
 # RS-FTP
-[![Build](http://ftp.rainbowmoe.xyz/)][1]
+[![text website](http://ftp.rainbowmoe.xyz/)][1]
 
 > It is A very good ftp linker.
 A FTP linker on the web server, this is a good linker, but some imperfect, can you improve it?
