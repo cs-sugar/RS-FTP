@@ -1,6 +1,6 @@
 <?php
 /************************************************
- * RSÂ·FTP  - OC1.0
+ * RS¡¤FTP  - OC1.0
  * http://idc.sakura8888.moe/
  * Update:2020-10-10
  * 
@@ -13,11 +13,11 @@
 // License GNU/GPL - Vincent Blavet - Mars 2001
 // http://www.phpconcept.net & http://phpconcept.free.fr
 // --------------------------------------------------------------------------------
-// Frané°is :
+// Français :
 //   La description de l'usage de la librairie PCL Error 1.0 n'est pas encore
-//   disponible. Celle-ci n'est pour le moment distribué–‘ qu'avec les
-//   dé–¢eloppements applicatifs de PhpConcept.
-//   Une version indé–œendante sera bientot disponible sur http://www.phpconcept.net
+//   disponible. Celle-ci n'est pour le moment distribuée qu'avec les
+//   développements applicatifs de PhpConcept.
+//   Une version indépendante sera bientot disponible sur http://www.phpconcept.net
 //
 // English :
 //   The PCL Error 1.0 library description is not available yet. This library is
@@ -28,17 +28,17 @@
 //
 //   * Avertissement :
 //
-//   Cette librairie a é– ?cræ®še de faé¾n non professionnelle.
-//   Son usage est au risque et pé–žil de celui qui l'utilise, en aucun cas l'auteur
-//   de ce code ne pourra é˜¾re tenu pour responsable des é–¢entuels dé–“ats qu'il pourrait
+//   Cette librairie a ét?créée de façon non professionnelle.
+//   Son usage est au risque et péril de celui qui l'utilise, en aucun cas l'auteur
+//   de ce code ne pourra être tenu pour responsable des éventuels dégats qu'il pourrait
 //   engendrer.
-//   Il est entendu cependant que l'auteur a ré–lis?ce code par plaisir et n'y a
+//   Il est entendu cependant que l'auteur a réalis?ce code par plaisir et n'y a
 //   cach?aucun virus, ni malveillance.
-//   Cette libairie est distribué–‘ sous la license GNU/GPL (http://www.gnu.org)
+//   Cette libairie est distribuée sous la license GNU/GPL (http://www.gnu.org)
 //
 //   * Auteur :
 //
-//   Ce code a é– ?é–rit par Vincent Blavet (vincent@blavet.net) sur son temps
+//   Ce code a ét?écrit par Vincent Blavet (vincent@blavet.net) sur son temps
 //   de loisir.
 //
 // --------------------------------------------------------------------------------

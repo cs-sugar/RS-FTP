@@ -1,6 +1,6 @@
 <?php
 /************************************************
- * RSÂ·FTP  - OC1.0
+ * RS¡¤FTP  - OC1.0
  * http://idc.sakura8888.moe/
  * Update:2020-10-10
  * 
@@ -18,7 +18,7 @@ class download
 		$this->file_type['doc']='application/msword';
 		$this->file_type['exe']='application/octet-stream';
 		$this->file_type['rar']='application/octet-stream';
-		$this->file_type['js']="javascrå¢¨pt/js";
+		$this->file_type['js']="javascrÄ«pt/js";
 		$this->file_type['css']="text/css";
 		$this->file_type['hqx']="application/mac-binhex40";
 		$this->file_type['bin']="application/octet-stream";
