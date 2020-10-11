@@ -18,6 +18,11 @@ You can use the pagoda panel or the recreation panel to build a station and use 
 
 It's very easy to install and very easy to use.
 
+## Link
+
+Why can't I link?
+Do not use CDN.
+
 ## License
 
 RS · FTP is a good ftp client on the web.However, it uses several (L)GPL components. Most are dynamically linked but the gstreamer plugins are statically linked and parts of the code are taken from AMFTP. Please be aware of this if you intend on redistributing this application.
