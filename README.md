@@ -1,5 +1,4 @@
 # RS-FTP
-[![text website](http://ftp.rainbowmoe.xyz/)][1]
 
 > It is A very good ftp linker.
 A FTP linker on the web server, this is a good linker, but some imperfect, can you improve it?
@@ -22,3 +21,8 @@ It's very easy to install and very easy to use.
 ## License
 
 RS · FTP is a good ftp client on the web.However, it uses several (L)GPL components. Most are dynamically linked but the gstreamer plugins are statically linked and parts of the code are taken from AMFTP. Please be aware of this if you intend on redistributing this application.
+
+##BUG text
+
+Please use the text website to find BUG.
+http://ftp.rainbowmoe.xyz/
