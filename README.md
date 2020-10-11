@@ -26,3 +26,4 @@ RS · FTP is a good ftp client on the web.However, it uses several (L)GPL compon
 
 Please use the text website to find BUG.
 http://ftp.rainbowmoe.xyz/
+http://ftp.sakura8888.moe/
